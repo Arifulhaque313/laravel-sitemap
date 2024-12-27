@@ -1,6 +1,6 @@
 # 🗺️ Laravel Sitemap
 
-A Laravel-based project that dynamically generates sitemaps for your website.
+Generate a dynamic sitemap in a Laravel project.
 
 ## 🚀 Installation Guide
 
